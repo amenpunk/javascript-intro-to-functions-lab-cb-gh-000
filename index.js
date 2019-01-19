@@ -14,7 +14,7 @@ function whisper(string) {
 /*  logShout(string) calls console.log() its one argument in all caps:
     ReferenceError: logShout is not defined */
 function logShout(string) {
-  console.log() string.toUpperCase
+  console.log() 
 }
 
 /*  logWhisper(string) calls console.log() its one argument in all lowercase:
